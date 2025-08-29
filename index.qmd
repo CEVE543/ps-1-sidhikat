@@ -1,7 +1,7 @@
 ---
 title: "Lab 1: Setup & Hello World"
 subtitle: "Julia Installation, GitHub Classroom Workflow, and Quarto Basics"
-author: CEVE 543 Fall 2025 # edit this line only
+author: Sidhika Tripathee # edit this line only
 date: 2025-08-29
 type: "lab"
 module: 1
@@ -97,7 +97,7 @@ using LaTeXStrings
 
 ```{julia}
 #| output: false
-my_netid = "jd82" # edit this line
+my_netid = "st161" # edit this line
 ```
 
 Do not change this
